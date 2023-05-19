@@ -1,0 +1,11 @@
+.idea
+package.json
+/node_modules/
+/package-lock.json
+/output/
+/cmd/dbproxy/log/
+/tools/
+/output/
+/tarpack/
+/internal/test/blocface-test.log
+/internal/test/blocface-test
